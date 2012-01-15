@@ -3,8 +3,8 @@
 #
 APL/J/K
 Ada
-Assembler
-BASIC
+#Assembler
+#BASIC
 Boo
 C#
 C/C++
@@ -25,14 +25,14 @@ Go
 Haskell
 Java
 LISP
-LabVIEW
+#LabVIEW
 Logo
 Lua
 ML
 MUMPS
 Magma
 Maple
-Mathematica
+#Mathematica
 Matlab
 Nemerle
 Octave
