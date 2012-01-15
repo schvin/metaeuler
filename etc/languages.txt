@@ -26,7 +26,6 @@ Haskell
 Java
 LISP
 LabVIEW
-Language
 Logo
 Lua
 ML
@@ -56,7 +55,7 @@ Sage
 Scala
 Scheme
 Smalltalk
-Spreadsheet
+#Spreadsheet
 Squirrel
 TECO
 Tcl
